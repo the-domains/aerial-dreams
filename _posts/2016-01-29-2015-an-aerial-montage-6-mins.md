@@ -34,7 +34,7 @@ app_links:
     type: web
 isBasedOnUrl: 'https://vimeo.com/151911327'
 title: '2015: An Aerial Montage - 6 mins'
-datePublished: '2016-01-29T18:57:16.123Z'
+datePublished: '2016-01-29T18:57:16.151Z'
 dateModified: '2016-01-29T18:57:09.324Z'
 sourcePath: _posts/2016-01-29-2015-an-aerial-montage-6-mins.md
 published: true
