@@ -5,9 +5,9 @@ author:
     avatar: {}
 related: []
 publisher:
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   url: 'https://vimeo.com/'
   name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
 keywords:
   - quark
@@ -23,21 +23,22 @@ keywords:
 description: "Featuring drone footage of the polar ice cap, polar bears, and incredible icebreaking, come along for the journey as our ship, '50 Let Pobedy' or '50 years of Victory', the worlds largest nuclear powered icebreaker at 160M long and 25,000tn, takes us to the geographic north pole earlier than any planned voyage in history."
 inLanguage: en
 app_links:
-  - url: 'vimeo://app.vimeo.com/videos/147195984'
-    type: ios
-    app_name: Vimeo
+  - app_name: Vimeo
     app_store_id: '425194759'
-  - url: 'vimeo://app.vimeo.com/videos/147195984'
+    url: 'vimeo://app.vimeo.com/videos/147195984'
+    type: ios
+  - package: com.vimeo.android.videoapp
+    app_name: Vimeo
+    url: 'vimeo://app.vimeo.com/videos/147195984'
     should_fallback: 'true'
     type: web
-    app_name: Vimeo
-    package: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/147195984'
 title: 90º North - Journey to the North Pole
-datePublished: '2016-01-29T18:08:35.610Z'
-dateModified: '2016-01-29T18:03:15.997Z'
+datePublished: '2016-01-29T18:50:04.944Z'
+dateModified: '2016-01-29T18:31:03.879Z'
 sourcePath: _posts/2016-01-29-90o-north-journey-to-the-north-pole.md
 published: true
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
