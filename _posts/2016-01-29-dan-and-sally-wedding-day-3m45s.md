@@ -5,28 +5,29 @@ author:
     avatar: {}
 related: []
 publisher:
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   url: 'https://vimeo.com/'
   name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
 keywords: []
 description: 'This is "Dan & Sally: Wedding Day (3m45s)" by on Vimeo, the home for high quality videos and the people who love them.'
 app_links:
-  - url: 'vimeo://app.vimeo.com/videos/139808864'
-    type: ios
-    app_name: Vimeo
+  - app_name: Vimeo
     app_store_id: '425194759'
-  - url: 'vimeo://app.vimeo.com/videos/139808864'
+    url: 'vimeo://app.vimeo.com/videos/139808864'
+    type: ios
+  - package: com.vimeo.android.videoapp
+    app_name: Vimeo
+    url: 'vimeo://app.vimeo.com/videos/139808864'
     should_fallback: 'true'
     type: web
-    app_name: Vimeo
-    package: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/139808864'
 title: 'Dan & Sally: Wedding Day (3m45s)'
-datePublished: '2016-01-29T18:39:10.385Z'
-dateModified: '2016-01-29T18:38:13.173Z'
+datePublished: '2016-01-29T18:48:02.620Z'
+dateModified: '2016-01-29T18:47:47.402Z'
 sourcePath: _posts/2016-01-29-dan-and-sally-wedding-day-3m45s.md
 published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
