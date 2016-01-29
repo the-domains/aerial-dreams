@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  url: 'https://vimeo.com/'
   name: Vimeo
   domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 keywords:
   - widescreen
   - rollers
@@ -34,14 +34,15 @@ app_links:
     type: web
 isBasedOnUrl: 'https://vimeo.com/152521127'
 title: Pacific Rollers
-datePublished: '2016-01-29T18:50:04.956Z'
-dateModified: '2016-01-29T18:31:03.744Z'
+datePublished: '2016-01-29T18:56:54.570Z'
+dateModified: '2016-01-29T18:56:51.342Z'
 sourcePath: _posts/2016-01-29-pacific-rollers.md
 published: true
 starred: true
 inFeed: true
 hasPage: false
 inNav: false
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
