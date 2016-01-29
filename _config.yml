@@ -1,6 +1,6 @@
 name: Aerial Dreams
 favicon: null
-layout_spectrum: 0.94784
+layout_spectrum: 0.60917
 typography_spectrum: 0.08385
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#1b1c20'
   brandStrength: 0
   lightness: 0
-  saturation: 0.9375
+  saturation: 1
   rhythmicContrast: 0
 purpose: []
