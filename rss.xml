@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Aerial Dreams]]></title>
         <description><![CDATA[Aerial Dreams]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aerial-dreams/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 18:08:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Jan 2016 18:08:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aerial-dreams/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2015: An Aerial Montage - 6 mins]]></title>
+            <description><![CDATA[<article><h1>2015: An Aerial Montage - 6 mins</h1><p>2015 was the year of the Phantom 3, when DJI cannibalized their own Phantom 2 Vision 2+ system with a lower priced, highly superior Phantom 3 Advanced and Professional. And boy what a difference a year makes. It's seriously impressive what this sub $1000 piece of equipment can do.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa13c943af49ef1ed1b2026ccff774719afe5361.jpg"></article>]]></description>
+            <link>https://vimeo.com/151911327</link>
+            <guid isPermaLink="false">d6b12079-a1a3-429c-ad4d-6bf63eb486d6</guid>
+            <pubDate>Fri, 29 Jan 2016 18:08:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Two Guys Went Skiing In Pitch Dark Wearing LED Suits. The Result? There Are No Words!!]]></title>
             <description><![CDATA[<article><h1>Two Guys Went Skiing In Pitch Dark Wearing LED Suits. The Result? There Are No Words!!</h1><p>This video is called Afterglow and is currently being hailed as the most cinematically profound ski movie ever made. It was completely shot in Alaska at night and features 2 guys skiing in custom made LED suits. If you are a fan of this sport, this video will absolutely blow your mind.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3fe6587e528f176e57fce0e5d3e7a9211a629fd8.jpg"></article>]]></description>
