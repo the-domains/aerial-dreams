@@ -2,9 +2,9 @@
 author: []
 related: []
 publisher:
+  favicon: null
   url: 'http://www.dailyliked.net'
   name: Daily Liked - Trending Stuff From All Around The Web
-  favicon: null
   domain: www.dailyliked.net
 keywords:
   - skiing
@@ -22,10 +22,11 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.dailyliked.net/afterglow-skiing-led-suits/'
 title: 'Two Guys Went Skiing In Pitch Dark Wearing LED Suits. The Result? There Are No Words!!'
-datePublished: '2016-01-29T18:08:34.973Z'
-dateModified: '2016-01-29T18:04:52.824Z'
+datePublished: '2016-01-29T18:48:02.865Z'
+dateModified: '2016-01-29T18:47:47.721Z'
 sourcePath: _posts/2016-01-29-two-guys-went-skiing-in-pitch-dark-wearing-led-suits-the-re.md
 published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
