@@ -5,9 +5,9 @@ author:
     avatar: {}
 related: []
 publisher:
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   url: 'https://vimeo.com/'
   name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
 keywords:
   - hubnut
@@ -23,21 +23,22 @@ keywords:
 description: 'This is "Feeding Flight (2min)" by on Vimeo, the home for high quality videos and the people who love them.'
 inLanguage: en
 app_links:
-  - url: 'vimeo://app.vimeo.com/videos/140536261'
-    type: ios
-    app_name: Vimeo
+  - app_name: Vimeo
     app_store_id: '425194759'
-  - url: 'vimeo://app.vimeo.com/videos/140536261'
+    url: 'vimeo://app.vimeo.com/videos/140536261'
+    type: ios
+  - package: com.vimeo.android.videoapp
+    app_name: Vimeo
+    url: 'vimeo://app.vimeo.com/videos/140536261'
     should_fallback: 'true'
     type: web
-    app_name: Vimeo
-    package: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/140536261'
 title: Feeding Flight (2min)
-datePublished: '2016-01-29T18:39:10.410Z'
-dateModified: '2016-01-29T18:38:03.907Z'
+datePublished: '2016-01-29T18:48:02.510Z'
+dateModified: '2016-01-29T18:47:47.573Z'
 sourcePath: _posts/2016-01-29-feeding-flight-2min.md
 published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
