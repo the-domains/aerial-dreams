@@ -5,9 +5,9 @@ author:
     avatar: {}
 related: []
 publisher:
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   url: 'https://vimeo.com/'
   name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
 keywords:
   - thumbnail
@@ -23,21 +23,22 @@ keywords:
 description: Shot in the Mount Tamalpias region with DJI Phantom 3 Advanced. Thanks to Charlie Boisseau and Alex Loddengard. Edited with Final Cut Pro. SoundTrack - Wake Me Up / Avicii 3 minute runtime.
 inLanguage: en
 app_links:
-  - url: 'vimeo://app.vimeo.com/videos/136733485'
-    type: ios
-    app_name: Vimeo
+  - app_name: Vimeo
     app_store_id: '425194759'
-  - url: 'vimeo://app.vimeo.com/videos/136733485'
+    url: 'vimeo://app.vimeo.com/videos/136733485'
+    type: ios
+  - package: com.vimeo.android.videoapp
+    app_name: Vimeo
+    url: 'vimeo://app.vimeo.com/videos/136733485'
     should_fallback: 'true'
     type: web
-    app_name: Vimeo
-    package: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/136733485'
 title: "'Ridge Run' - HD Drone Footage of Mountain Biking in the Mount Tamalpias / Marin Headlands area"
-datePublished: '2016-01-29T18:39:10.082Z'
-dateModified: '2016-01-29T18:38:42.253Z'
+datePublished: '2016-01-29T18:48:02.271Z'
+dateModified: '2016-01-29T18:47:47.335Z'
 sourcePath: _posts/2016-01-29-ridge-run-hd-drone-footage-of-mountain-biking-in-the-mou.md
 published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
