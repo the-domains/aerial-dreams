@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Aerial Dreams]]></title>
+        <description><![CDATA[Aerial Dreams]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Jan 2016 18:08:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Two Guys Went Skiing In Pitch Dark Wearing LED Suits. The Result? There Are No Words!!]]></title>
+            <description><![CDATA[<article><h1>Two Guys Went Skiing In Pitch Dark Wearing LED Suits. The Result? There Are No Words!!</h1><p>This video is called Afterglow and is currently being hailed as the most cinematically profound ski movie ever made. It was completely shot in Alaska at night and features 2 guys skiing in custom made LED suits. If you are a fan of this sport, this video will absolutely blow your mind.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3fe6587e528f176e57fce0e5d3e7a9211a629fd8.jpg"></article>]]></description>
+            <link>http://www.dailyliked.net/afterglow-skiing-led-suits/</link>
+            <guid isPermaLink="false">0a82ee1c-4344-4a74-9d3e-f9f186e86c3c</guid>
+            <pubDate>Fri, 29 Jan 2016 18:08:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
