@@ -5,9 +5,9 @@ author:
     avatar: {}
 related: []
 publisher:
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   url: 'https://vimeo.com/'
   name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
 keywords:
   - widescreen
@@ -23,21 +23,22 @@ keywords:
 description: 'My first experiment with widescreen 21:9 format in order to highlight the beautiful waves. Huge pacific rollers crashing onto the coast have been epic this winter.'
 inLanguage: en
 app_links:
-  - url: 'vimeo://app.vimeo.com/videos/152521127'
-    type: ios
-    app_name: Vimeo
+  - app_name: Vimeo
     app_store_id: '425194759'
-  - url: 'vimeo://app.vimeo.com/videos/152521127'
+    url: 'vimeo://app.vimeo.com/videos/152521127'
+    type: ios
+  - package: com.vimeo.android.videoapp
+    app_name: Vimeo
+    url: 'vimeo://app.vimeo.com/videos/152521127'
     should_fallback: 'true'
     type: web
-    app_name: Vimeo
-    package: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/152521127'
 title: Pacific Rollers
-datePublished: '2016-01-29T18:08:35.308Z'
-dateModified: '2016-01-29T18:03:55.040Z'
+datePublished: '2016-01-29T18:50:04.956Z'
+dateModified: '2016-01-29T18:31:03.744Z'
 sourcePath: _posts/2016-01-29-pacific-rollers.md
 published: true
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
