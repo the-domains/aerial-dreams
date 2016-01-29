@@ -5,9 +5,9 @@ author:
     avatar: {}
 related: []
 publisher:
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   url: 'https://vimeo.com/'
   name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
 keywords:
   - video
@@ -23,21 +23,22 @@ keywords:
 description: 'Standing at the intersection of Telegraph Avenue and Broadway, The Cathedral Building was built in 1914 by San Francisco Architect Benjamin Geer McDougall. Shot in Oakland with DJI Phantom 3 Advanced. Edited with Final Cut Pro. SoundTrack - The Dark Knight. Thanks to Zavain Dar.'
 inLanguage: en
 app_links:
-  - url: 'vimeo://app.vimeo.com/videos/145814605'
-    type: ios
-    app_name: Vimeo
+  - app_name: Vimeo
     app_store_id: '425194759'
-  - url: 'vimeo://app.vimeo.com/videos/145814605'
+    url: 'vimeo://app.vimeo.com/videos/145814605'
+    type: ios
+  - package: com.vimeo.android.videoapp
+    app_name: Vimeo
+    url: 'vimeo://app.vimeo.com/videos/145814605'
     should_fallback: 'true'
     type: web
-    app_name: Vimeo
-    package: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/145814605'
 title: Cathedral Sunset - 2 mins
-datePublished: '2016-01-29T18:39:10.570Z'
-dateModified: '2016-01-29T18:37:54.724Z'
+datePublished: '2016-01-29T18:48:02.638Z'
+dateModified: '2016-01-29T18:47:47.634Z'
 sourcePath: _posts/2016-01-29-cathedral-sunset-2-mins.md
 published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
