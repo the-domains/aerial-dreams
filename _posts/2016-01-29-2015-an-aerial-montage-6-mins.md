@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  url: 'https://vimeo.com/'
   name: Vimeo
   domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 keywords:
   - phantom
   - procrastinating
@@ -34,14 +34,15 @@ app_links:
     type: web
 isBasedOnUrl: 'https://vimeo.com/151911327'
 title: '2015: An Aerial Montage - 6 mins'
-datePublished: '2016-01-29T18:50:04.999Z'
-dateModified: '2016-01-29T18:31:03.782Z'
+datePublished: '2016-01-29T18:57:16.123Z'
+dateModified: '2016-01-29T18:57:09.324Z'
 sourcePath: _posts/2016-01-29-2015-an-aerial-montage-6-mins.md
 published: true
 starred: true
 inFeed: true
 hasPage: false
 inNav: false
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
