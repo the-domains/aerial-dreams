@@ -5,9 +5,9 @@ author:
     avatar: {}
 related: []
 publisher:
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   url: 'https://vimeo.com/'
   name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
 keywords:
   - phantom
@@ -23,21 +23,22 @@ keywords:
 description: "2015 was the year of the Phantom 3, when DJI cannibalized their own Phantom 2 Vision 2+ system with a lower priced, highly superior Phantom 3 Advanced and Professional. And boy what a difference a year makes. It's seriously impressive what this sub $1000 piece of equipment can do."
 inLanguage: en
 app_links:
-  - url: 'vimeo://app.vimeo.com/videos/151911327'
-    type: ios
-    app_name: Vimeo
+  - app_name: Vimeo
     app_store_id: '425194759'
-  - url: 'vimeo://app.vimeo.com/videos/151911327'
+    url: 'vimeo://app.vimeo.com/videos/151911327'
+    type: ios
+  - package: com.vimeo.android.videoapp
+    app_name: Vimeo
+    url: 'vimeo://app.vimeo.com/videos/151911327'
     should_fallback: 'true'
     type: web
-    app_name: Vimeo
-    package: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/151911327'
 title: '2015: An Aerial Montage - 6 mins'
-datePublished: '2016-01-29T18:08:35.308Z'
-dateModified: '2016-01-29T18:03:39.829Z'
+datePublished: '2016-01-29T18:50:04.999Z'
+dateModified: '2016-01-29T18:31:03.782Z'
 sourcePath: _posts/2016-01-29-2015-an-aerial-montage-6-mins.md
 published: true
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
