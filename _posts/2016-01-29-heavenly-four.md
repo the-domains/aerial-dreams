@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  url: 'https://vimeo.com/'
   name: Vimeo
   domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 keywords:
   - actorson
   - thumbnail
@@ -34,14 +34,15 @@ app_links:
     type: web
 isBasedOnUrl: 'https://vimeo.com/153054727'
 title: Heavenly Four
-datePublished: '2016-01-29T18:50:04.689Z'
-dateModified: '2016-01-29T18:31:03.399Z'
+datePublished: '2016-02-15T04:59:58.197Z'
+dateModified: '2016-02-15T04:59:56.525Z'
 sourcePath: _posts/2016-01-29-heavenly-four.md
 published: true
 starred: true
 inFeed: true
 hasPage: false
 inNav: false
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
