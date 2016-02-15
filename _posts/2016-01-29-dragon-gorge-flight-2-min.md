@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://vimeo.com/'
   name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 keywords:
   - videos
   - multi-tasking
@@ -23,24 +23,26 @@ keywords:
 description: "On the morning of Guy and Kelly's wedding, we take the to skies above 龙庆峡 (Dragon Gorge), in YanQing County, near Beijing. Thanks to Miki Sivan for letting me film his Phantom 3 in motion as part of this production."
 inLanguage: en
 app_links:
-  - url: 'vimeo://app.vimeo.com/videos/146567959'
-    type: ios
-    app_name: Vimeo
+  - app_name: Vimeo
     app_store_id: '425194759'
-  - url: 'vimeo://app.vimeo.com/videos/146567959'
+    url: 'vimeo://app.vimeo.com/videos/146567959'
+    type: ios
+  - package: com.vimeo.android.videoapp
+    app_name: Vimeo
+    url: 'vimeo://app.vimeo.com/videos/146567959'
     should_fallback: 'true'
     type: web
-    app_name: Vimeo
-    package: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/146567959'
 title: Dragon Gorge Flight - 2 min
-datePublished: '2016-01-29T18:08:35.691Z'
-dateModified: '2016-01-29T18:02:51.804Z'
+datePublished: '2016-02-15T04:53:47.203Z'
+dateModified: '2016-02-15T04:53:45.931Z'
 sourcePath: _posts/2016-01-29-dragon-gorge-flight-2-min.md
 published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
