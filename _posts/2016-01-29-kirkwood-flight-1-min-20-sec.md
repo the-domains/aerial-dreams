@@ -5,9 +5,9 @@ author:
     avatar: {}
 related: []
 publisher:
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   url: 'https://vimeo.com/'
   name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
 keywords:
   - sticky
@@ -23,21 +23,22 @@ keywords:
 description: 'Testing Drone in Sierras. First flight in snow, first above 10,000 ft (takeoff elevation). Thanks to Dom for helping with logistics on this one.'
 inLanguage: en
 app_links:
-  - url: 'vimeo://app.vimeo.com/videos/149477277'
-    type: ios
-    app_name: Vimeo
+  - app_name: Vimeo
     app_store_id: '425194759'
-  - url: 'vimeo://app.vimeo.com/videos/149477277'
+    url: 'vimeo://app.vimeo.com/videos/149477277'
+    type: ios
+  - package: com.vimeo.android.videoapp
+    app_name: Vimeo
+    url: 'vimeo://app.vimeo.com/videos/149477277'
     should_fallback: 'true'
     type: web
-    app_name: Vimeo
-    package: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/149477277'
 title: Kirkwood Flight - 1 min 20 sec
-datePublished: '2016-01-29T18:08:35.333Z'
-dateModified: '2016-01-29T18:03:28.113Z'
+datePublished: '2016-02-15T04:53:34.334Z'
+dateModified: '2016-01-29T18:31:03.842Z'
 sourcePath: _posts/2016-01-29-kirkwood-flight-1-min-20-sec.md
 published: true
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
