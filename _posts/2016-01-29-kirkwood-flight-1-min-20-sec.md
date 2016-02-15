@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  url: 'https://vimeo.com/'
   name: Vimeo
   domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 keywords:
   - sticky
   - self-distribution
@@ -34,14 +34,15 @@ app_links:
     type: web
 isBasedOnUrl: 'https://vimeo.com/149477277'
 title: Kirkwood Flight - 1 min 20 sec
-datePublished: '2016-02-15T04:53:34.334Z'
-dateModified: '2016-01-29T18:31:03.842Z'
+datePublished: '2016-02-15T04:56:15.828Z'
+dateModified: '2016-02-15T04:56:07.935Z'
 sourcePath: _posts/2016-01-29-kirkwood-flight-1-min-20-sec.md
 published: true
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
