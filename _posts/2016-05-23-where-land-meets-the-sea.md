@@ -40,10 +40,10 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/165667906'
 title: Where Land meets the Sea
-datePublished: '2016-05-23T15:43:43.669Z'
-dateModified: '2016-05-23T15:43:43.159Z'
+datePublished: '2016-05-23T15:44:10.688Z'
+dateModified: '2016-05-23T15:44:10.318Z'
 sourcePath: _posts/2016-05-23-where-land-meets-the-sea.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
