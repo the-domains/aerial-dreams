@@ -34,11 +34,10 @@ app_links:
     type: web
 isBasedOnUrl: 'https://vimeo.com/147195984'
 title: 90º North - Journey to the North Pole
-datePublished: '2016-01-29T18:50:04.944Z'
-dateModified: '2016-01-29T18:31:03.879Z'
+datePublished: '2016-05-23T15:44:20.328Z'
+dateModified: '2016-05-23T15:44:20.136Z'
 sourcePath: _posts/2016-01-29-90o-north-journey-to-the-north-pole.md
-published: true
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
