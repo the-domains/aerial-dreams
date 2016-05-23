@@ -4,7 +4,7 @@
         <description><![CDATA[Aerial Dreams]]></description>
         <link>https://thegrid.ai/aerial-dreams/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 15:39:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 15:39:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aerial-dreams/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Heavenly Four]]></title>
@@ -26,13 +26,6 @@
             <link>https://vimeo.com/147195984</link>
             <guid isPermaLink="false">297ea10f-eef3-4573-a273-470cd8791ab2</guid>
             <pubDate>Fri, 29 Jan 2016 18:50:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Day 2 - Where the Streets Have no Name]]></title>
-            <description><![CDATA[<article><h1>Day 2 - Where the Streets Have no Name</h1><p>This is "Day 2 - Where the Streets Have no Name" by on Vimeo, the home for high quality videos and the people who love them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6038bcae05d914081c9c95cb8319423ddd7c8ba3.jpg"></article>]]></description>
-            <link>https://vimeo.com/166164210</link>
-            <guid isPermaLink="false">63f3189d-01bd-4747-9ed0-7c39b7086cf5</guid>
-            <pubDate>Mon, 23 May 2016 15:39:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Day 2 - Where the Streets Have no Name]]></title>
@@ -75,6 +68,13 @@
             <link>https://vimeo.com/155087680</link>
             <guid isPermaLink="false">774d2278-119c-4041-9c33-12d56ef09934</guid>
             <pubDate>Mon, 15 Feb 2016 03:53:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The human sized drone from ehang at CES 2016]]></title>
+            <description><![CDATA[<article><h1>The human sized drone from ehang at CES 2016</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/969c23ae2b53adfe3b7ffeff1bac846cf780886e.png"></article>]]></description>
+            <link>https://thegrid.ai/aerial-dreams/the-human-sized-drone-from-ehang-at-ces-2016/index.html</link>
+            <guid isPermaLink="false">5d8b1fd1-5dfe-49a5-a06e-655d80153369</guid>
+            <pubDate>Fri, 29 Jan 2016 19:06:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
