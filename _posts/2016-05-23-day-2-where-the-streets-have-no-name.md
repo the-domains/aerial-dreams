@@ -40,10 +40,10 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/166164210'
 title: Day 2 - Where the Streets Have no Name
-datePublished: '2016-05-23T15:44:28.393Z'
-dateModified: '2016-05-23T15:44:28.026Z'
+datePublished: '2016-05-23T15:44:29.877Z'
+dateModified: '2016-05-23T15:44:29.616Z'
 sourcePath: _posts/2016-05-23-day-2-where-the-streets-have-no-name.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
