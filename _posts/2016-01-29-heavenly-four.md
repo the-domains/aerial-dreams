@@ -34,15 +34,14 @@ app_links:
     type: web
 isBasedOnUrl: 'https://vimeo.com/153054727'
 title: Heavenly Four
-datePublished: '2016-02-15T04:59:58.197Z'
-dateModified: '2016-02-15T04:59:56.525Z'
+datePublished: '2016-05-23T15:44:15.288Z'
+dateModified: '2016-05-23T15:44:14.878Z'
 sourcePath: _posts/2016-01-29-heavenly-four.md
-published: true
-starred: true
 inFeed: true
 hasPage: false
 inNav: false
 authors: []
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
